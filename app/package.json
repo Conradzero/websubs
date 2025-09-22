@@ -97,7 +97,7 @@
     "lodash.set": "^4.3.2",
     "lodash.throttle": "^4.1.1",
     "node-fetch": "^2.6.0",
-    "node-sass": "^4.14.1",
+    "sass": "^1.80.0",
     "nodemon": "^1.18.5",
     "normalize-strings": "^1.1.0",
     "nuxt-env": "^0.1.0",
